@@ -1,14 +1,14 @@
-<h2 align="centre">⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥.</h2>
+<h2 align="centre">⸢ STARS• 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥.</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/1a38e52936d7007199c78.jpg">
+  <img src="https://telegra.ph/file/1a38e52936d7009c78.jpg">
 </p>
 
-<h3>⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥</h3>
+<h3>⸢ stars • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥</h3>
 
 - جميع الحقوق محفوظه لدي سورس كريستين
 
-- chat etalee [𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀](https://t.me/cr_source) (𝘾𝙍 v1)
+- chat etalee [STARS • 𝙎𝙊𝙐𝙍𝘾𝙀](https://t.me/Y_H_E) (stars v1)
 - Python (3.10+)
 
 ### اوامر التشغيل 🛠
@@ -64,7 +64,7 @@ shikhar@MacBook~ $ bash start
 
 ## 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 
 
-## ⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥
+## ⸢ stars • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥
 
 ## Support Updates 
 
