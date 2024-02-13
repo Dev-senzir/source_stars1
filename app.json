@@ -32,11 +32,6 @@
         "description": "حط هنا توكن بوتك .",
         "value": "",
         "required": true
-      },
-      "GIT_TOKEN": {
-        "description": "حط هنا توكن بوتك .",
-        "value": "",
-        "required": true
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @ ينجم .",
@@ -73,11 +68,6 @@
         "value": "",
         "required": true
       },
-      "IMG_DEV1": {
-        "description": "حط لينك صورة المطور ينجم .",
-        "value": "",
-        "required": true
-      },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت ينجم .",
         "value": "https://telegra.ph/file/6912332dec69740433c95.jpg",
@@ -110,7 +100,7 @@
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "git clone https://github.com/Dev-senzir/source_stars1",
+        "value": "https://github.com/Dev-senzir/source_stars1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
