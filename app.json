@@ -49,33 +49,33 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - BARLOO.",
-        "value": "BARLOO",
+        "description": "حط اسم البوت انجلش كابيتال زيي - SENZIR.",
+        "value": "SENZIR",
         "required": true
       },
       "NAME_BOT": {
-        "description": "حط اسم البوت ب العربي زي كريستين .",
-        "value": "كريستين",
+        "description": "حط اسم البوت ب العربي زي النجوم .",
+        "value": "النجوم",
         "required": true
       },
       "OWNER": {
         "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "bar_lo0o0",
+        "value": "",
         "required": true
       },
       "OWNER_USER": {
         "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "@bar_lo0o0",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "حط هنا ايدي المطور ينجم .",
-        "value": "5363951902",
+        "value": "",
         "required": true
       },
       "IMG_DEV1": {
         "description": "حط لينك صورة المطور ينجم .",
-        "value": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
+        "value": "",
         "required": true
       },
       "IMG_BOT1": {
@@ -104,8 +104,8 @@
         "required": true
       },
       "START_IMG_URL": {
-        "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
+        "description": "حط رابط رسالة ستلرا",
+        "value":"",
         "required": true
       },      
       "UPSTREAM_REPO": {
