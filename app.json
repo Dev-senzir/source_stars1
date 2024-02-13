@@ -1,7 +1,7 @@
 {
     "name": "𝗦َِ𝗢َِ𝗨َِ𝗥َِ𝗖َِ𝗘 𝗦ََِ𝗧َِ𝗔َِ𝗥َِ𝗦",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
+    "logo": "https://telegra.ph/file/6912332dec69740433c95.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -80,7 +80,7 @@
       },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت ينجم .",
-        "value": "",
+        "value": "https://telegra.ph/file/6912332dec69740433c95.jpg",
         "required": true
       },
       "STRING_SESSION": {
@@ -104,13 +104,13 @@
         "required": true
       },
       "START_IMG_URL": {
-        "description": "حط رابط رسالة ستلرا",
-        "value":"",
+        "description": "حط رابط رسالة ستارت",
+        "value":"https://telegra.ph/file/6912332dec69740433c95.jpg",
         "required": true
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "git clone https://github.com/o0ooo0oo/arab1",
+        "value": "git clone https://github.com/Dev-senzir/source_stars1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
